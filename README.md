@@ -89,22 +89,6 @@ http://127.0.0.1:8000
 
 ---
 
-# 🖼️ Screenshot Aplikasi
-
-## Halaman Landing Page
-
-> Tambahkan screenshot di sini
-
-## Dashboard Admin
-
-> Tambahkan screenshot di sini
-
-## Form Pelaporan
-
-> Tambahkan screenshot di sini
-
----
-
 # 🔐 Keamanan Sistem
 
 BinaryProject menerapkan berbagai standar keamanan modern:
